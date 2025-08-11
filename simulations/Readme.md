@@ -30,7 +30,6 @@ A total of **100 simulations** are run:
 **Output:**  
 Generates 100 image descriptions (one per run) in the folder `image_learning_results/` for use in the chat simulation phase.
 
----
 
 ### 2. `mci_assistant_simulations.py`
 - Runs the **conversation simulation** for each image description.
@@ -39,20 +38,21 @@ Generates 100 image descriptions (one per run) in the folder `image_learning_res
   - **Elderly Person (Learning State)**: Chooses a drink from the scene.
 - Conversations are stored in the `conversation_samples/` folder.
 
----
-
 ## 🚀 Running the Simulations
 
 ### 1. Prepare the Environment
 Make sure dependencies are installe and api key set as for chat-bot
 
 ### 2. Run the Image Description Phase
-- python image_learning_for_simulations.py
+```
+python image_learning_for_simulations.py
+```
 
 ### 3. Run the Chat Simulation Phase
 python mci_assistant_simulations.py
 
 ## 📁 Directory Structure
+```
 ├── image_learning_for_simulations.py       		 # Generates image descriptions
 ├── image_for_learning_for_simulations.jpeg 		 # Input image
 ├── image_learning_results/							 # Stores image description results
@@ -60,7 +60,7 @@ python mci_assistant_simulations.py
 ├── prompt_generator_for_assistant_in_simulations/   # generates the prompts for mci_assistant
 ├── context_collector_simulations.py				 # generates 4W prompts
 ├── conversation_samples/                   		 # Stores conversation logs
-
+```
 
 
 
