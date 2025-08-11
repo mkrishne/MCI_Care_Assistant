@@ -71,6 +71,7 @@ export OPENAI_API_KEY="your_api_key_here"
 
 ### 3. Directory Structure:
 Ensure the following directory structure is in place:
+```
 ├── mci_assistant.py                # Main simulation script
 ├── state_dispatcher.py             # Brain state handling
 ├── context_collector.py            # Collecting contextual information
@@ -78,6 +79,7 @@ Ensure the following directory structure is in place:
 ├── update_memory.py                # Updating memory
 ├── conversation_samples/           # Folder for logged conversations
 └── image_recognition_results/      # Folder for image recognition results
+```
 
 ### 4. Image Input:
 - Place the image file (e.g., "image_for_recognition.png") in the same directory or specify the correct path in context_collector.py.
