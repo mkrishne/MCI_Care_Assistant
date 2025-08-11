@@ -61,11 +61,13 @@ Make sure you have **Python** installed and then install the required packages u
 
 ```bash
 pip install openai
+```
 
 ### 2. Set Up API Key:
 Ensure that you have a valid OpenAI API key. Set the environment variable OPENAI_API_KEY to your API key or add it directly in the code.
 ```bash
 export OPENAI_API_KEY="your_api_key_here"
+```
 
 ### 3. Directory Structure:
 Ensure the following directory structure is in place:
@@ -92,6 +94,7 @@ In the state_dispatcher.py file, set the brain_state variable to one of the foll
 To start the conversation simulation, run the following command in your terminal:
 ```bash
 python mci_assistant.py
+```
 
 ### 3. Interacting with the Simulation:
 - The assistant will prompt you with a conversation.
