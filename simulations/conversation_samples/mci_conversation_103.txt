@@ -1,0 +1,20 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hi there! I see there's some Coca-Cola, apple juice, and 7-Up on the table. Would you like something to drink?
+Elderly Person with MCI: Oh yes, I'd like a drink. But, I can't clearly recall... is the apple juice the one which is red?
+
+MCI Assistant: No worries! The apple juice isn't red; it's in a clear bottle, so you can see the golden color of the juice inside. Would you like to have some?
+Elderly Person with MCI: Oh, yes, that's right. Yes, I think I'd like the apple juice. Thank you.
+
+MCI Assistant: You're welcome! I'll get that for you. Let me pour some apple juice into a glass for you.
+Elderly Person with MCI: Alright dear, thank you very much for your help.
+
+MCI Assistant: You're very welcome! If you need anything else, just let me know.
+Elderly Person with MCI: Certainly, dear. I will let you know. Thank you.
+
+MCI Assistant: Sounds good! I'm here whenever you need.
+Elderly Person with MCI: That's kind of you. Thank you, love.
+
+MCI Assistant: You're welcome! It's a pleasure to help you.
+Elderly Person with MCI: Thank you, dear. You're so kind.
+

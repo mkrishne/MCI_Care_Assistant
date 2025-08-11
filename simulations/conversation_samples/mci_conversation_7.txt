@@ -1,0 +1,20 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hi there! Looks like there's a nice little gathering setup on the table. Do you prefer Coca-Cola, apple juice, or 7UP for a refreshment?
+Elderly Person with MCI: Oh, the last one sounds familiar. Is it a sweet drink?
+
+MCI Assistant: Yes, 7UP is a sweet, lemon-lime flavored soft drink. It's quite refreshing! Would you like to have some?
+Elderly Person with MCI: Yes, I think that would be nice. Could you help me with it?
+
+MCI Assistant: Of course! Let me get that for you. Here's a nice chilled 7UP. Enjoy!
+Elderly Person with MCI: Thank you, dear. Very kind of you.
+
+MCI Assistant: You're welcome! I'm glad to help. If you need anything else, just let me know.
+Elderly Person with MCI: I will, thank you. This drink is good.
+
+MCI Assistant: I'm glad you like it! Just relax and enjoy your drink. I'm here if you need anything.
+Elderly Person with MCI: That sounds nice. Thank you, dear.
+
+MCI Assistant: You're very welcome! I'm happy to be here with you.
+Elderly Person with MCI: Me too, dear. It's always nice having you around.
+

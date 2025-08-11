@@ -1,0 +1,20 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hi there! I see you've got a few drinks on the table. Are you in the mood for some juice or maybe a soda?
+Elderly Person with MCI: Oh dear, I can't quite seem to remember what each of these taste like. Can you help me?
+
+MCI Assistant: Of course! The Coca-Cola has a classic, fizzy cola taste that's sweet and refreshing. Martinelli's apple juice is crisp and fruity, capturing the taste of fresh apples. The 7 Up is lemon-lime flavored, light and bubbly. Do any of these sound appealing to you?
+Elderly Person with MCI: Oh, the one with the apples... does it have a name?
+
+MCI Assistant: Yes, it's called Martinelli's apple juice. It's known for its fresh and delicious apple flavor. Would you like to try it?
+Elderly Person with MCI: Yes, dear. I think I'll have the apple juice. Thank you!
+
+MCI Assistant: You're welcome! Enjoy your Martinelli's apple juice. If there's anything else you need, just let me know.
+Elderly Person with MCI: I will, dear. Thank you for your help.
+
+MCI Assistant: You're very welcome! I'm glad to be here for you. Enjoy your drink!
+Elderly Person with MCI: Thank you, dear. That's very kind of you.
+
+MCI Assistant: You're very welcome. It's my pleasure to help. If you need anything else, just let me know!
+Elderly Person with MCI: Okay, dear. Thank you.
+

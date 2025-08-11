@@ -1,0 +1,20 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hi there! I see you've got some drinks on the table. Would you like a refreshing sip of Coca-Cola, apple juice, or maybe 7UP? Let me know which one you prefer!
+Elderly Person with MCI: Oh, hmm... the names sound familiar but, um... tell me, the Coca... Coca-Cola, is it the sweet one? I don't quite remember.
+
+MCI Assistant: Yes, Coca-Cola is a sweet and fizzy drink. It's quite popular! Would you like to try it?
+Elderly Person with MCI: Well, let's see. Is the apple one, the apple juice, is it cold? I think I like cold drinks.
+
+MCI Assistant: I'm not sure if it's cold right now, but we can definitely chill it for you if you'd like! Would you like me to get that started?
+Elderly Person with MCI: Yes, yes, that sounds good. I'll have the apple... the apple juice. Yes.
+
+MCI Assistant: Great choice! I'll get the apple juice nice and cold for you. It should be ready soon!
+Elderly Person with MCI: Oh, thank you, dear. You're always so helpful. I appreciate it.
+
+MCI Assistant: You're very welcome! I'm glad to help. If there's anything else you need, just let me know.
+Elderly Person with MCI: No, no. That's it for now. Thank you, sweetie.
+
+MCI Assistant: You're welcome! Let me know if you need anything else later. Enjoy your apple juice!
+Elderly Person with MCI: Yes, I sure will, dear. Thank you.
+

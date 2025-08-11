@@ -1,0 +1,9 @@
+Result 86:
+You are looking at a wooden round table with three soft chairs around it. On the table, there are three beverages:
+
+1. A can of Coca-Cola.
+2. A bottle of Martinelli's apple juice.
+3. A can of 7UP.
+
+The chairs are black with armrests, and the room has a neutral, plain wall and carpeted floor.
+

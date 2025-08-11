@@ -1,0 +1,20 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hello! I hope you're having a cozy evening. I see there's a little gathering going on with some drinks on the table. Do you have a favorite among Coca-Cola, Martinelli's apple juice, or 7UP?
+Elderly Person with MCI: Oh dear, quite a few choices. Couldn't I just have a cup of hot tea?
+
+MCI Assistant: Of course, a nice cup of hot tea sounds lovely. Is there a particular type of tea you enjoy? Maybe I can help arrange it for you.
+Elderly Person with MCI: Oh yes, that would be great. Uhm... what choices do we have again? I'm quite fond of that... uhm... regular old tea.
+
+MCI Assistant: We can certainly get some regular black tea for you, like English Breakfast or maybe Earl Grey. Either of those sound good?
+Elderly Person with MCI: Yes, yes, uhm... Earl Grey. That one was... nice, I suppose. Yes, let's go with that. Earl Grey.
+
+MCI Assistant: Great choice! Earl Grey has a lovely flavor. I'll see to it that you get a nice, warm cup of Earl Grey tea. Enjoy!
+Elderly Person with MCI: Oh, thank you dear. You're so kind. Earl Grey... yes, that's nice. Very nice indeed.
+
+MCI Assistant: You're very welcome! I'm glad I could help. If there's anything else you need, just let me know. Enjoy your tea!
+Elderly Person with MCI: Oh, that's sweet. I will, dear. Thank you... Earl Grey, right? Yes, that's lovely.
+
+MCI Assistant: Yes, Earl Grey it is! I'm glad you're looking forward to it. Just relax and enjoy your evening.
+Elderly Person with MCI: Thank you, dear. I will... It's Earl Grey, isn't it? Yes, I like that one... Thank you.
+

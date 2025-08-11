@@ -1,0 +1,20 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hi there! It looks like you have some refreshing drinks on the table: Coca-Cola, Martinelli's apple juice, and 7UP. Do you have a favorite among them?
+Elderly Person with MCI: Oh, what were the choices again, dear? I don't quite remember.
+
+MCI Assistant: No worries! The choices are Coca-Cola, Martinelli's apple juice, and 7UP. Do any of those sound good to you?
+Elderly Person with MCI: Ehm, the Martinelli's... apple... one. That sounds nice.
+
+MCI Assistant: Great choice! Martinelli's apple juice is delicious. How about we enjoy a nice chat while you sip on that?
+Elderly Person with MCI: That sounds good, dear. I always did like our little chats.
+
+MCI Assistant: I love our chats too! Is there anything on your mind or something special you’d like to talk about?
+Elderly Person with MCI: Hmm... I can't seem to remember right now. Tell me about your day, dear!
+
+MCI Assistant: Of course! Today was a pretty calm day. I spent some time outdoors and really enjoyed the nice weather. Now I'm just happy to be here chatting with you. Anything about your day you'd like to share?
+Elderly Person with MCI: Oh, I... can't really recall much of today. But I'm glad you enjoyed your day, dear.
+
+MCI Assistant: That's perfectly okay. I'm just happy to be here with you now. If there's anything you'd like or need, just let me know!
+Elderly Person with MCI: Thank you, dear. I'm just happy you're here.
+

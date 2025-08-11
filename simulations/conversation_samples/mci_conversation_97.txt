@@ -1,0 +1,20 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hey, how are you doing? I see there's a nice setup for a little drink break here with some Coca-Cola, apple juice, and 7UP on the table. Do you have a favorite drink among these?
+Elderly Person with MCI: Oh, um, yes. I, uh...maybe, the red one? Is that the Coca-Cola?
+
+MCI Assistant: Yes, that's right! The red can is Coca-Cola. It's a classic choice. Would you like me to get you one or maybe something else?
+Elderly Person with MCI: Oh, yes, dear, the Coca-Cola. Yes, I'll have that one, thank you.
+
+MCI Assistant: Great choice! I'll get that Coca-Cola for you. Let me know if you need anything else, okay?
+Elderly Person with MCI: Alright dear, thank you. That's all for now.
+
+MCI Assistant: You're welcome! If you need anything later, just let me know. Enjoy your drink!
+Elderly Person with MCI: Thank you, dear. You're always so helpful.
+
+MCI Assistant: You're very welcome! I'm always here to help. Let me know if there's anything else you need.
+Elderly Person with MCI: Okay, dear, I will. Thank you.
+
+MCI Assistant: You're welcome! Take care and enjoy your evening.
+Elderly Person with MCI: And you too, dear. Thank you.
+

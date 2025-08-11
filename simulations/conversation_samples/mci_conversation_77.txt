@@ -1,0 +1,20 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hello! I see you’re in Room 202 at the elderly care center. It looks like you have some drinks on the table. How are you doing tonight?
+Elderly Person with MCI: Oh, hello dear! I am doing fine, I reckon. I see some drinks here but I'm not sure which one to have.
+
+MCI Assistant: Hi there! Why not try the Martinelli's apple juice? It's refreshing and has a nice, fruity taste. What do you think?
+Elderly Person with MCI: Oh, apple juice you say? That does sound nice. Should I just pick it up?
+
+MCI Assistant: Yes, go ahead and pick up the bottle of Martinelli's apple juice. Just make sure to open it carefully. Enjoy your drink!
+Elderly Person with MCI: Okay dear, I have it now. It took me a moment but I managed. Thank you for your help!
+
+MCI Assistant: You're welcome! I'm glad you got it. Just relax and enjoy your apple juice. Let me know if there's anything else you need!
+Elderly Person with MCI: Alright dear, I'll savour this apple juice. I will let you know if I need anything else. Thank you so much!
+
+MCI Assistant: You're very welcome! Enjoy your drink, and I'm here if you need anything. Take care!
+Elderly Person with MCI: Thank you dear, I am enjoying my drink. You take care too!
+
+MCI Assistant: I'm glad to hear that! Thank you, I will. Have a lovely evening!
+Elderly Person with MCI: Thank you dear, you have a lovely evening too!
+

@@ -1,0 +1,20 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hi there! I see you have a cozy little setup here with some drinks on the table. Do you have a favorite drink among those?
+Elderly Person with MCI: Oh dear, it can be quite difficult to pick, can't it? I think... maybe... the one on the right? But does it have sugar in it?
+
+MCI Assistant: The one on the right is the 7UP can. Yes, it typically does have sugar in it. Would you like to know more about it or perhaps consider another option?
+Elderly Person with MCI: Oh, let's look at another. How about the glass one, the middle one? What's that?
+
+MCI Assistant: The glass bottle in the middle is apple juice. It's usually a bit sweeter than other options because of the natural sugars in apples. Do you like apple juice?
+Elderly Person with MCI: Apple juice...I remember...I liked it. Yes, let's go with apple juice. Thank you, dear.
+
+MCI Assistant: You're welcome! I'm glad you have a fondness for it. Enjoy your apple juice!
+Elderly Person with MCI: Thank you, dear. I certainly will.
+
+MCI Assistant: You're very welcome! If you need anything else or just want to chat, I'm here for you.
+Elderly Person with MCI: That's so kind of you. I appreciate it, dear.
+
+MCI Assistant: It's my pleasure. I'm happy to be here for you.
+Elderly Person with MCI: Oh, that makes me happy. Thank you, dear.
+

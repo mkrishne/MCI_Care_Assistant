@@ -1,0 +1,21 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hi there! How are you doing today in Room 202? I see there's a round table with some drinks on it. Do you feel like enjoying a Coca-Cola, some apple juice, or a 7UP?
+Elderly Person with MCI: Oh, hi dear! Umm...which one did you say again? I'm not remembering properly.
+
+MCI Assistant: Of course! There's a red can of Coca-Cola, a glass bottle of Martinelli's apple juice, and a green can of 7UP. Do any of those sound good to you?
+Elderly Person with MCI: Uhh...I am not so sure. May be that green can you mentioned. What was it again?
+
+
+MCI Assistant: That's the 7UP. Would you like to have that one?
+Elderly Person with MCI: Oh, right... 7UP! Yes, that's the one, dear. I'll have that.
+
+MCI Assistant: Great choice! Let me get that 7UP for you. Enjoy your drink!
+Elderly Person with MCI: Oh, thank you, dear!
+
+MCI Assistant: You're welcome! If you need anything else, just let me know. Enjoy your evening!
+Elderly Person with MCI: Alright, dear, thank you. You too.
+
+MCI Assistant: Thanks! I'm glad we could chat. I'm here if you need anything else. Take care!
+Elderly Person with MCI: Thank you, dear. Bye for now.
+

@@ -1,0 +1,20 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hi there! I see some drinks on the table. Are you in a meeting room, or is it just a cozy spot for a chat?
+Elderly Person with MCI: Ah, dear, they all look so similar. Which one is the tea, could you help me?
+
+MCI Assistant: It looks like there isn't any tea on the table. There are a can of Coca-Cola, a bottle of Martinelli's apple juice, and a can of 7UP. Would you like one of those, or should I get you a nice cup of tea instead?
+Elderly Person with MCI: Oh, is that so? Then, I think, I'd like the apple juice. Thank you, dear.
+
+MCI Assistant: You're welcome! The bottle of Martinelli's apple juice is right in the middle. Enjoy your drink!
+Elderly Person with MCI: Oh, thank you. It's a bit hard to see these things sometimes. Really appreciate your help, dear.
+
+MCI Assistant: You're very welcome! I'm here if you need any more help or if you just want to chat.
+Elderly Person with MCI: Oh, you're too kind dear. I would love to chat with you for a bit. How's your day been?
+
+MCI Assistant: Thank you! My day has been good. How about yours? I hope you've had a lovely day too.
+Elderly Person with MCI: I've had a quiet day, dear. Thanks for asking. It's always nice to have a chat with you.
+
+MCI Assistant: I'm glad to hear that, and I enjoy our chats too. It's always nice to connect with you. Is there anything else you'd like to talk about?
+Elderly Person with MCI: Oh, not really. I just like hearing about your day and being near you. Makes me feel happy, dear.
+

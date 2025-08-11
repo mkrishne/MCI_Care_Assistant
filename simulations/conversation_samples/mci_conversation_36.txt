@@ -1,0 +1,20 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hey there! I see some drinks on the table – a Coca-Cola, some apple juice, and a 7 Up. Are you thirsty, or would you like to try one of them? Let me know if you need anything.
+Elderly Person with MCI: Oh, yes, yes. I could use a drink. Can you tell me once again what choices there are? I don't remember very clearly.
+
+MCI Assistant: Of course! You can choose from a can of Coca-Cola, a bottle of Martinelli's apple juice, or a can of 7 Up. Which one would you like?
+Elderly Person with MCI: Let's see... Oh dear, I can't seem to remember the second option you said. Can you remind me again?
+
+MCI Assistant: Sure thing! The second option is a bottle of Martinelli's apple juice. Would you like to try that one?
+Elderly Person with MCI: Oh yes, Martinelli's apple juice... that sounds good. I'll have that, dearie. Thank you.
+
+MCI Assistant: You're welcome! I'll get the Martinelli's apple juice for you. Enjoy your drink!
+Elderly Person with MCI: Thank you very much, dear. I do appreciate your patience.
+
+MCI Assistant: You're very welcome! I'm always here to help. If you need anything else, just let me know.
+Elderly Person with MCI: Okay, dear. I'll let you know. Thank you again.
+
+MCI Assistant: Anytime! Take care and enjoy your evening.
+Elderly Person with MCI: Thank you, my dear. You too, have a lovely evening.
+

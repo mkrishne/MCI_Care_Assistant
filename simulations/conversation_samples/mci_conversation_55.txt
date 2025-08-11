@@ -1,0 +1,20 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hi there! I see you have some drinks on the table. Would you like some Coca-Cola, apple juice, or 7 Up?
+Elderly Person with MCI: Oh, uh, some juice...what was it again?
+
+MCI Assistant: It's Martinelli's apple juice. Would you like me to pour some for you?
+Elderly Person with MCI: Yes, that'll be nice.
+
+MCI Assistant: Alright, let me pour you a glass of apple juice. Here you go. Enjoy!
+Elderly Person with MCI: Thank you, dear.
+
+MCI Assistant: You're welcome! How has your day been so far?
+Elderly Person with MCI: Oh, the same as usual. Can't remember what I did before lunch.
+
+MCI Assistant: That's alright. Sometimes we all have those days. Did you have anything nice for lunch?
+Elderly Person with MCI: I think I had soup...or was it a sandwich? Sorry, can't remember it clearly.
+
+MCI Assistant: That's okay, it's not a problem at all. As long as you enjoyed what you had, that's what matters. Is there anything you'd like to do this evening?
+Elderly Person with MCI: Hmm... I think I'd like to watch that... you know, the show with the funny lady. I can't recall the name.
+
