@@ -49,7 +49,9 @@ python image_learning_for_simulations.py
 ```
 
 ### 3. Run the Chat Simulation Phase
+```
 python mci_assistant_simulations.py
+```
 
 ## 📁 Directory Structure
 ```
