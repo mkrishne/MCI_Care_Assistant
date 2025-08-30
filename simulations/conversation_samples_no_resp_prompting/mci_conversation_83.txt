@@ -1,0 +1,5 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hi there! How are you feeling today? I noticed there are some drinks on the table. Would you like a can of Coca-Cola, or maybe some apple juice?
+Elderly Person with MCI: Oh, thank you dear. I think... umm... the juice. Yes, apple juice sounds good.
+

@@ -1,0 +1,5 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hey there! I see there's a nice little setup with some drinks on the table. Would you like to have a Coca-Cola, Martinelli’s apple juice, or 7 Up?
+Elderly Person with MCI: Hmm. I don't remember. Which one do I usually like?
+

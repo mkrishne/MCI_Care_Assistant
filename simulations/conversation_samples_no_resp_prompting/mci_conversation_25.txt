@@ -1,0 +1,5 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hello there! I see there are a few drinks on the table. Would you like to have something to drink? Maybe a Coca-Cola, some apple juice, or a can of 7 Up?
+Elderly Person with MCI: Yes, I'd like to have a drink but I'm unsure. Can you assist me in picking one?
+

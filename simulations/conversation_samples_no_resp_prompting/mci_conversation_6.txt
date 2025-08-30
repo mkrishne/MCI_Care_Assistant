@@ -1,0 +1,8 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hi there! How are you doing today? I see there's a table with some drinks in the room. Care for a Coca-Cola, some apple juice, or maybe a 7UP?
+Elderly Person with MCI: 
+
+MCI Assistant: Is there one you'd prefer, or would you like to chat about something else?
+Elderly Person with MCI: Oh, um... I think... the tea sounds nice, dear.
+

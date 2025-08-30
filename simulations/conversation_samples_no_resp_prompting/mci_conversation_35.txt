@@ -1,0 +1,5 @@
+Conversation between MCI Assistant and Elderly Person with MCI:
+
+MCI Assistant: Hi there! I see some drinks on the table. Would you like a can of Coca-Cola or a bottle of apple juice?
+Elderly Person with MCI: Uhm, that one… The apple ju...No Coca-Cola. I can't remember, but I think I preferred that one. It's the red bottle, right?
+
